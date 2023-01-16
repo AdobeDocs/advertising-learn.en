@@ -1,11 +1,10 @@
 ---
+type: Tutorial
 cloud: Experience Cloud
-solution: Experience Cloud
-product: experience cloud
-type: Documentation
-mini-toc-levels: 2
+solution: Advertising Cloud
+feature-set: Advertising Cloud
+product: advertising cloud
 git-repo: https://github.com/AdobeDocs/advertising-learn.en
-index: no
 ---
 
 # Metadata for internal use

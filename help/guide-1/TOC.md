@@ -1,10 +1,12 @@
 ---
-user-guide-title: Template title
-breadcrumb-title: Shorter title (if necessary) that appears only in the breadcrumb.
-user-guide-description: This is a description for the user guide that will be displayed on the landing page.
+ser-guide-title: Adobe Advertising Tutorials
+user-guide-description: A collection of videos and tutorials for Adobe Advertising.
+breadcrumb-title: Advertising Tutorials
+solution: Advertising Cloud
+index: yes
 ---
 
-# Placeholder {#using}
+# Adobe Advertising Tutorials {#tutorials}
 
 + [Overview](overview.md)
 
