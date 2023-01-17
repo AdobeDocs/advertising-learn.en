@@ -3,6 +3,6 @@ title: Overview
 description: This is the article overview.
 ---
 
-# Overview
+# Placeholder overview
 
 Welcome to the user guide.
