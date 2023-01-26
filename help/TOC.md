@@ -2,7 +2,7 @@
 user-guide-title: Adobe Advertising Tutorials
 user-guide-description: A collection of videos and tutorials for Adobe Advertising.
 breadcrumb-title: Advertising Tutorials
-solution: Advertising Cloud
+solution: Advertising, Advertising Cloud
 ---
 
 # Adobe Advertising Tutorials {#tutorials}
