@@ -2,7 +2,7 @@
 type: Tutorial
 cloud: Experience Cloud
 solution: Advertising, Advertising Cloud
-feature-set: Advertising, Advertising Cloud
+feature-set: Advertising Cloud
 product: advertising cloud
 git-repo: https://github.com/AdobeDocs/advertising-learn.en
 index: yes
