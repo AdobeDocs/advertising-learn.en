@@ -1,6 +1,9 @@
 ---
 title: Introduction to [!DNL Adobe Analytics for Adobe Advertising]
 description: Understand the benefits of the integration between Adobe Advertising and Adobe Analytics, including the customer problems it resolves.
+level: Beginner
+topic: Integrations
+feature: Integration with Adobe Analytics
 exl-id: 3e8b735d-62a3-4f03-b259-f3278cde8afb
 ---
 # Introduction to [!DNL Adobe Analytics for Adobe Advertising]

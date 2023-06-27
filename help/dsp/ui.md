@@ -1,6 +1,7 @@
 ---
 title: DSP Account Structure and User Interface
 description: Get to know the DSP account structure and user interface.
+feature: DSP Campaign Data Views, DSP Audiences, DSP On Demand Inventory, DSP Private Inventory, DSP Deal IDs, DSP Custom Reports
 exl-id: c7786a04-a0ab-4ae6-8d5c-da68713f18d9
 ---
 # Account Structure and User Interface
