@@ -1,6 +1,7 @@
 ---
 title: DSP Audience Libraries and Applying Behavioral Targeting
 description: Learn about reusable audience libraries for customizing behavioral targeting.
+feature: DSP Audiences
 ---
 # Audience Libraries and Applying Behavioral Targeting
 
