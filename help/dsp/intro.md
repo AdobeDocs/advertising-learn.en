@@ -1,6 +1,7 @@
 ---
 title: Introduction to Adobe Advertising DSP
 description: Learn about Adobe Advertising DSP and how it can benefit your media campaigns.
+feature: DSP Introduction
 exl-id: 6aa44b8e-da4d-4141-b7b5-989046586315
 ---
 # Introduction to Adobe Advertising DSP
