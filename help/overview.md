@@ -1,6 +1,9 @@
 ---
 title: Adobe Advertising Tutorials
 description: A collection of videos and tutorials for Adobe Advertising.
+cloud: Experience Cloud
+product: advertising cloud
+index: yes
 exl-id: aa9d9ff5-115f-44c6-b23d-3fc034904697
 ---
 # Adobe Advertising Tutorials
