@@ -4,6 +4,7 @@ user-guide-description: A collection of videos and tutorials for Adobe Advertisi
 breadcrumb-title: Advertising Tutorials
 role: User
 level: Beginner, Intermediate
+auto-video-transcripts: true
 ---
 
 # Adobe Advertising Tutorials {#tutorials}
