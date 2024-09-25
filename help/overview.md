@@ -14,7 +14,7 @@ Videos are available for:
 
 * Advertising DSP
 
-* Advertising DSP and Advertising Search integrations with other Adobe Experience Cloud products and services
+* Advertising DSP and Advertising Search, Social, & Commerce integrations with other Adobe Experience Cloud products and services
 
 <!--
 See other -learn tutorials landing pages to get ideas for additional content
