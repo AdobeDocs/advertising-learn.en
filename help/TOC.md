@@ -27,7 +27,7 @@ auto-video-transcripts: true
   + [Create a Pre-Launch Campaign Analysis with Adobe Analytics](/help/integrations/analytics/analytics-pre-launch-a4adc.md)
   + [Create Adobe Advertising Dashboards with Adobe Analytics](/help/integrations/analytics/analytics-dashboards-a4adc.md)
   + [Create [!DNL Analytics] Custom Metrics with Adobe Advertising Data](/help/integrations/analytics/analytics-custom-metrics-a4adc.md)
-+ [Customer Journey Analytics](/help/integrations/customer-journey-analytics/cja-initial-setup-tasks.md)
++ [Customer Journey Analytics](/help/integrations/customer-journey-analytics/cja-setup-tasks.md)
 
 <!-- Add to DSP chapter once the videos are complete:
   + [How to Create a Placement](/help/dsp/placement-create.md)
