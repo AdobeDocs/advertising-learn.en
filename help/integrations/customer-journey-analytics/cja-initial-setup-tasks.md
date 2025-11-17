@@ -27,5 +27,4 @@ Once you complete these steps and provide the data view to your Adobe Account Te
 
 >[!MORELIKETHIS]
 >
->* [Overview of the integration between Adobe Advertising with Customer Journey Analytics](/help/integrations/customer-journey-analytics/overview.md)
-
+>* [Overview of the integration between Adobe Advertising with Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/advertising/integrations/customer-journey-analytics/overview)
