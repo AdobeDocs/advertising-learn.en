@@ -13,7 +13,7 @@ hidefromtoc: yes
 
 Learn about the initial steps required to send Customer Journey Analytics conversion events to Adobe Advertising, where you can later include them in optimization goals/objectives.
 
-Once you complete these steps and provide the data view to your Adobe Account Team, you can complete the additional steps to set up the integration. For more information about the additional steps, read the [full documentation](https://experienceleague.adobe.com/en/docs/advertising/integrations/customer-journey-analytics/overview).
+Once you complete these steps and provide the data view to your Adobe Account Team, you can complete the additional steps to set up the integration.
 
 ### Overview
 
@@ -48,3 +48,7 @@ Once you complete these steps and provide the data view to your Adobe Account Te
 ### Configure persistence settings and derived fields for Adobe Advertising dimensions
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476897?learn=on)
+
+>[!MORELIKETHIS]
+>
+>* [Written documentation](https://experienceleague.adobe.com/en/docs/advertising/integrations/customer-journey-analytics/overview).
