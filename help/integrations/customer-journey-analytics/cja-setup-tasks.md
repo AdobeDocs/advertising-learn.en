@@ -9,7 +9,7 @@ hidefromtoc: yes
 ---
 # Setup tasks to exchange data between Customer Journey Analytics and Adobe Advertising
 
-## Initial setup tasks to Customer Journey Analytics conversion events to Adobe Advertising
+## Initial setup tasks to send Customer Journey Analytics conversion events to Adobe Advertising
 
 Learn about the initial steps required to send Customer Journey Analytics conversion events to Adobe Advertising, where you can later include them in optimization goals/objectives.
 
