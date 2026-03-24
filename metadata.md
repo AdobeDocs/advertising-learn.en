@@ -3,9 +3,11 @@ type: Tutorial
 cloud: Experience Cloud
 solution: Advertising
 feature-set: Advertising
+landing-page-name: advertising
+landing-page-breadcrumb-title: Advertising
 product: advertising cloud
 git-repo: https://github.com/AdobeDocs/advertising-learn.en
-index: yes
+index: true
 ---
 
 # Metadata for internal use

@@ -29,7 +29,8 @@ auto-video-transcripts: true
   + [Create [!DNL Analytics] Custom Metrics with Adobe Advertising Data](/help/integrations/analytics/analytics-custom-metrics-a4adc.md)
 + [Customer Journey Analytics](/help/integrations/customer-journey-analytics/cja-setup-tasks.md)
 
-<!-- Add to DSP chapter once the videos are complete:
+<!-- 
+Add to DSP chapter once the videos are complete:
   + [How to Create a Placement](/help/dsp/placement-create.md)
   + [Placement Targeting Capabilities](/help/dsp/placement-targeting.md)
   + [Audience Libraries and Applying Behavioral Targeting](/help/dsp/audience-libraries.md)
