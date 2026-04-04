@@ -5,7 +5,6 @@ level: Beginner, Intermediate, Experienced
 topic: Integrations
 feature: Integration with Adobe Customer Journey Analytics
 hide: yes
-hidefromtoc: yes
 exl-id: 1d9ef24f-02bf-4260-9d16-24580cd1c7a3
 ---
 # Setup tasks to exchange data between Customer Journey Analytics and Adobe Advertising
