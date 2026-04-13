@@ -4,7 +4,7 @@ description: Walk through the key steps required to exchange data between Custom
 level: Beginner, Intermediate, Experienced
 topic: Integrations
 feature: Integration with Adobe Customer Journey Analytics
-hide: yes
+hide: true
 exl-id: 1d9ef24f-02bf-4260-9d16-24580cd1c7a3
 ---
 # Setup tasks to exchange data between Customer Journey Analytics and Adobe Advertising
