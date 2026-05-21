@@ -18,13 +18,11 @@ level_v2:
     internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-    internal-label: Reporting
-  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
 ---
 # Setup tasks to exchange data between Customer Journey Analytics and Adobe Advertising
+
+<!-- Removed all video links; keeping this page in case I need to reuse any of the text  once we have new videos -->
 
 ## Initial setup tasks to send Customer Journey Analytics conversion events to Adobe Advertising
 
@@ -34,37 +32,26 @@ Once you complete these steps and provide the data view to your Adobe Account Te
 
 ### Overview
 
->[!VIDEO](https://video.tv.adobe.com/v/3476810)
 
 ### Step 1: Set up a location account in Customer Journey Analytics
 
->[!VIDEO](https://video.tv.adobe.com/v/3476811)
 
 ### Step 2: Create a data view in Analysis Workspace with the metrics to export
 
->[!VIDEO](https://video.tv.adobe.com/v/3476823)
-
->[!MORELIKETHIS]
->
->* [Overview of the integration between Adobe Advertising with Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/advertising/integrations/customer-journey-analytics/overview)
 
 ## Steps to view Adobe Advertising campaign data in Customer Journey Analytics
 
 ### Overview
 
->[!VIDEO](https://video.tv.adobe.com/v/3476847)
 
 ### Step 1: Set up a connection in Customer Journey Analytics
 
->[!VIDEO](https://video.tv.adobe.com/v/3476860)
 
 ### Step 2: Set up data views in Customer Journey Analytics
 
->[!VIDEO](https://video.tv.adobe.com/v/3476872?learn=on)
 
 ### Step 3: Configure persistence settings and derived fields for Adobe Advertising dimensions
 
->[!VIDEO](https://video.tv.adobe.com/v/3476897?learn=on)
 
 >[!MORELIKETHIS]
 >
