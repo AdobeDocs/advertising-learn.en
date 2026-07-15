@@ -22,7 +22,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 ---
-# How batch upload third-party ad tags
+# How to batch upload third-party ad tags
 
 Learn how to upload multiple third-party ad tags at a time.
 
