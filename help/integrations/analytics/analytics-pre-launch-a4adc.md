@@ -23,6 +23,6 @@ topic_v2:
 
 *Advertisers with [!DNL Adobe Analytics for Adobe Advertising]*
 
-Learn how to use Adobe Analytics to set the foundation for launching an Adobe Advertising paid media campaign.
+Learn how to use Adobe Analytics to prepare for launching an Adobe Advertising paid media campaign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33501)

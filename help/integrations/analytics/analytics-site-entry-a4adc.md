@@ -23,6 +23,6 @@ topic_v2:
 
 *Advertisers with [!DNL Adobe Analytics for Adobe Advertising]*
 
-Learn how to create an Adobe Advertising site entry report to monitor day of week, time of day, browser, and geographical influences.
+Learn how to create an Adobe Advertising site entry report to monitor the day of week, time of day, browser, and geographical influences.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33921)
