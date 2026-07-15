@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 auto-video-transcripts: true
 ---
 
-# Adobe Advertising Tutorials {#tutorials}
+# Adobe Advertising tutorials {#tutorials}
 
 + [Overview](overview.md)
 + DSP {#dsp}

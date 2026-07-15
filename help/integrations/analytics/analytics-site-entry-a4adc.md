@@ -1,5 +1,5 @@
 ---
-title: Create Adobe Advertising Site Entry Reports
+title: Create Adobe Advertising site entry reports
 description: Learn how to create an Adobe Advertising site entry report to monitor day of week, time of day, browser, and geographical influences.
 level: Intermediate, Experienced
 topic: Integrations
@@ -19,7 +19,7 @@ topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
     internal-label: Reporting
 ---
-# Create Adobe Advertising Site Entry Reports
+# Create Adobe Advertising site entry reports
 
 *Advertisers with [!DNL Adobe Analytics for Adobe Advertising]*
 

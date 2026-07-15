@@ -1,5 +1,5 @@
 ---
-title: Create a Pre-Launch Campaign Analysis with Adobe Analytics
+title: Create a pre-launch campaign analysis with Adobe Analytics
 description: Learn how to use Adobe Analytics to set the foundation for launching an Adobe Advertising paid media campaign.
 level: Intermediate, Experienced
 topic: Integrations
@@ -19,7 +19,7 @@ topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
     internal-label: Reporting
 ---
-# Create a Pre-Launch Campaign Analysis with Adobe Analytics
+# Create a pre-launch campaign analysis with Adobe Analytics
 
 *Advertisers with [!DNL Adobe Analytics for Adobe Advertising]*
 
