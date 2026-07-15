@@ -1,5 +1,5 @@
 ---
-title: Create Adobe Advertising Dashboards with Adobe Analytics
+title: Create Adobe Advertising dashboards with Adobe Analytics
 description: Learn techniques for creating an Adobe Advertising dashboard for live campaign monitoring
 level: Intermediate, Experienced
 topic: Integrations
@@ -16,7 +16,7 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 ---
-# Create Adobe Advertising Dashboards with Adobe Analytics
+# Create Adobe Advertising dashboards with Adobe Analytics
 
 *Advertisers with [!DNL Adobe Analytics for Adobe Advertising]*
 

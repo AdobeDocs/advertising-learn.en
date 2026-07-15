@@ -1,5 +1,5 @@
 ---
-title: Introduction to [!DNL Analysis Workspace] for Reporting Adobe Advertising Data
+title: Introduction to [!DNL Analysis Workspace] for reporting Adobe Advertising data
 description: Learn how you can use your Adobe Advertising data to create visual reports in Adobe Analytics [!DNL Analysis Workspace].
 level: Intermediate, Experienced
 topic: Integrations
@@ -19,7 +19,7 @@ topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
     internal-label: Reporting
 ---
-# Introduction to [!DNL Analysis Workspace] for Reporting Adobe Advertising Data
+# Introduction to [!DNL Analysis Workspace] for reporting Adobe Advertising data
 
 Learn how you can use your Adobe Advertising data to create visual reports in Adobe Analytics [!DNL Analysis Workspace].
 

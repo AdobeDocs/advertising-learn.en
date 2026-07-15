@@ -1,6 +1,6 @@
 ---
-title: How to Create a Package for DSP
-description: Learn how to create a package.
+title: How to create a package for DSP
+description: Learn how to create a package to group and manage placements within your DSP campaign for reporting and optimization.
 feature: DSP Packages
 exl-id: 4d4a6c11-6422-4a81-8755-703e98ac6faf
 TQID: https://experienceleague.adobe.com/J-Xe-kMWtMMP8okpqoU4mzIancOOS0l2XHp2yPA49Hc
@@ -27,7 +27,7 @@ topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
 ---
-# How to Create a Package
+# How to create a package
 
 Learn how to create a package for a DSP campaign.
 

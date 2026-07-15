@@ -1,5 +1,5 @@
 ---
-title: How to Bulk Upload Third-Party Ad Tags for DSP
+title: How to bulk upload third-party ad tags for DSP
 description: Learn how to upload multiple third-party ad tags at a time.
 feature: DSP Ads
 exl-id: 1681440a-4b20-4819-a649-8754a2d143bc
@@ -22,7 +22,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 ---
-# How to Bulk Upload Third-Party Ad Tags
+# How to bulk upload third-party ad tags
 
 Learn how to upload multiple third-party ad tags at a time.
 

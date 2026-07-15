@@ -1,5 +1,5 @@
 ---
-title: DSP Account Structure and User Interface
+title: DSP account structure and user interface
 description: Get to know the DSP account structure and user interface.
 feature: DSP Campaign Data Views, DSP Audiences, DSP On Demand Inventory, DSP Private Inventory, DSP Deal IDs, DSP Custom Reports
 exl-id: c7786a04-a0ab-4ae6-8d5c-da68713f18d9
@@ -35,7 +35,7 @@ topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
     internal-label: Reporting
 ---
-# Account Structure and User Interface
+# Account structure and user interface
 
 Learn how your DSP ad accounts are structured, how to use the campaign management views, and descriptions of the audience management, inventory, reporting, settings, and resource features.
 

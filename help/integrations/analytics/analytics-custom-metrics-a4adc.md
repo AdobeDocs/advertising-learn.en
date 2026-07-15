@@ -1,5 +1,5 @@
 ---
-title: Create [!DNL Analytics] Custom Metrics with Adobe Advertising Data
+title: Create [!DNL Analytics] custom metrics with Adobe Advertising data
 description: Learn useful custom metrics to create when using Adobe Advertising data within Adobe Analytics.
 level: Intermediate, Experienced
 topic: Integrations
@@ -16,7 +16,7 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 ---
-# Create [!DNL Analytics] Custom Metrics with Adobe Advertising Data
+# Create [!DNL Analytics] custom metrics with Adobe Advertising data
 
 *Advertisers with [!DNL Adobe Analytics for Adobe Advertising]*
 

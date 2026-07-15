@@ -1,5 +1,5 @@
 ---
-title: Adobe Advertising Tutorials
+title: Adobe Advertising tutorials
 description: A collection of videos and tutorials for Adobe Advertising.
 cloud: Experience Cloud
 product: advertising cloud
@@ -24,7 +24,7 @@ topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
 ---
-# Adobe Advertising Tutorials
+# Adobe Advertising tutorials
 
 These video tutorials, along with the [Adobe Advertising documentation](https://experienceleague.adobe.com/en/docs/advertising), will help you use Adobe Advertising to gain customer insights faster than ever.
 

@@ -1,6 +1,6 @@
 ---
-title: How to Create a Standard Display Placement for DSP
-description: Learn how to create a standard display placement.
+title: How to create a standard display placement for DSP
+description: Learn how to create a standard display placement to run display ads within your DSP campaign.
 feature: DSP Placements
 exl-id: 5eb60b2b-e3c7-4faf-887c-f14a9c50d2b5
 TQID: https://experienceleague.adobe.com/WVqNOSEgb-GB2JegTZWBpyMDX4kfZsSCPC0xn-ffIIQ
@@ -22,7 +22,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 ---
-# How to Create a Standard Display Placement
+# How to create a standard display placement
 
 Learn how to create a standard display placement for a DSP campaign.
 

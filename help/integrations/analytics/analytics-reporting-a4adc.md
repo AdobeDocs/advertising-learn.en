@@ -1,5 +1,5 @@
 ---
-title: Reporting with Adobe Advertising Marketing Channels
+title: Reporting with Adobe Advertising marketing channels
 description: Learn how the Adobe Advertising view-through and click-through entry data works with Adobe Analytics [!DNL Marketing Channels].
 level: Intermediate, Experienced
 topic: Integrations
@@ -19,7 +19,7 @@ topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
     internal-label: Reporting
 ---
-# Reporting with Adobe Advertising Marketing Channels
+# Reporting with Adobe Advertising marketing channels
 
 *Advertisers with [!DNL Adobe Analytics for Adobe Advertising]*
 
