@@ -21,6 +21,6 @@ level_v2:
 ---
 # Introduction to [!DNL Adobe Analytics for Adobe Advertising]
 
-Understand the benefits of the integration between Adobe Advertising and Adobe Analytics, including the customer problems it resolves.
+Understand the benefits of the integration between Adobe Advertising and Adobe Analytics, including the customer issues it resolves.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33491)

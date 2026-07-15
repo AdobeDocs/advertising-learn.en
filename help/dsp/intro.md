@@ -34,6 +34,6 @@ topic_v2:
 ---
 # Introduction to Adobe Advertising DSP
 
-Learn about Advertising DSP, including how it fits into Adobe Experience Cloud, what it can do for advertisers, and how an integration with Adobe Analytics and additional services can benefit your media campaigns.
+Learn about Advertising DSP, its role in Adobe Experience Cloud, and how integrations with Adobe Analytics and other services can benefit your media campaigns.
 
 >[!VIDEO](https://video.tv.adobe.com/v/339200)

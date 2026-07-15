@@ -23,6 +23,6 @@ topic_v2:
 
 *Advertisers with [!DNL Adobe Analytics for Adobe Advertising]*
 
-Learn how to use Adobe Advertising dimensions to create segments for cleaner reporting and analysis.
+Learn how to use Adobe Advertising dimensions to create segments for improved reporting and analysis.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33916)

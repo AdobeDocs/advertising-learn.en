@@ -23,6 +23,6 @@ topic_v2:
 
 *Advertisers with [!DNL Adobe Analytics for Adobe Advertising]*
 
-Learn how the Adobe Advertising view-through and click-through entry data works with Adobe Analytics [!DNL Marketing Channels].
+Understand how the Adobe Advertising view-through and click-through entry data integrate with Adobe Analytics [!DNL Marketing Channels].
 
 >[!VIDEO](https://video.tv.adobe.com/v/33502)

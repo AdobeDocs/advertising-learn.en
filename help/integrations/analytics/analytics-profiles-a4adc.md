@@ -23,6 +23,6 @@ topic_v2:
 
 *Advertisers with [!DNL Adobe Analytics for Adobe Advertising]*
 
-Learn how to use Adobe Analytics to create robust site retargeting pools for Adobe Advertising remarketing.
+Learn how to use Adobe Analytics to create site retargeting pools for Adobe Advertising remarketing.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33503)

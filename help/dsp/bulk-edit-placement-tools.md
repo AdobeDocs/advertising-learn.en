@@ -1,5 +1,5 @@
 ---
-title: How to edit placements using bulk edit tools for DSP
+title: How to edit placements using batch edit tools for DSP
 description: Learn how to edit the settings for multiple placements at once.
 feature: DSP Placements
 exl-id: 3c9abc04-0261-4ba1-a19d-68a6d862f660
@@ -22,7 +22,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 ---
-# How to edit placements using bulk edit tools
+# How to edit placements using batch edit tools
 
 Learn how to edit the settings for multiple placements at once in DSP.
 

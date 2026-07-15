@@ -37,6 +37,6 @@ topic_v2:
 ---
 # Account structure and user interface
 
-Learn how your DSP ad accounts are structured, how to use the campaign management views, and descriptions of the audience management, inventory, reporting, settings, and resource features.
+Understand how your DSP ad accounts are structured, how to use the campaign management views, and information about the audience management, inventory management, reporting, administrative settings and fees, and tracking resource features.
 
 >[!VIDEO](https://video.tv.adobe.com/v/339206)

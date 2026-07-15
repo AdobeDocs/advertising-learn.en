@@ -21,6 +21,6 @@ topic_v2:
 ---
 # Introduction to [!DNL Analysis Workspace] for reporting Adobe Advertising data
 
-Learn how you can use your Adobe Advertising data to create visual reports in Adobe Analytics [!DNL Analysis Workspace].
+Understand how to use your Adobe Advertising data to create visual reports in Adobe Analytics [!DNL Analysis Workspace].
 
 >[!VIDEO](https://video.tv.adobe.com/v/33492)

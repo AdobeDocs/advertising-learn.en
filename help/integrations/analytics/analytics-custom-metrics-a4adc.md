@@ -20,6 +20,6 @@ level_v2:
 
 *Advertisers with [!DNL Adobe Analytics for Adobe Advertising]*
 
-Learn useful custom metrics to create when using Adobe Advertising data within Adobe Analytics.
+Identify custom metrics to create when you use Adobe Advertising data within Adobe Analytics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33919)

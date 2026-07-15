@@ -26,7 +26,7 @@ topic_v2:
 ---
 # Adobe Advertising tutorials
 
-These video tutorials, along with the [Adobe Advertising documentation](https://experienceleague.adobe.com/en/docs/advertising), will help you use Adobe Advertising to gain customer insights faster than ever.
+These video tutorials, along with the [Adobe Advertising documentation](https://experienceleague.adobe.com/en/docs/advertising), explain how to use Adobe Advertising for faster customer insights.
 
 Videos are available for:
 
